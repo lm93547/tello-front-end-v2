@@ -13,7 +13,8 @@ This will spin up the local control and viewing window at [http://localhost:4000
 - DJI Tello
 
 Main screen controls and video screen:
-![Screenshot 2022-01-21 at 20 56 25](https://user-images.githubusercontent.com/49888000/150599093-be5f2c9b-ddfa-4fe9-9a28-6560c5e2de62.png)
+<img width="1720" alt="Screenshot 2022-07-30 at 12 00 51" src="https://user-images.githubusercontent.com/49888000/181908024-81ee1f12-e990-426d-b773-dd8182e07fc2.png">
+
 
 # Roadmap
 - Flight planning (chaining commands)
